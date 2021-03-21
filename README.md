@@ -1,1 +1,5 @@
 # VRoom
+
+THIS IS NOT THE ORIGNIAL REPOSITORY, IT WAS MADE TO BE CLEANER
+
+OLD REPOSITORY: https://github.com/Me2ooo/ParkTorio
